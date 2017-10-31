@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">SoundBoard KingPasserelle</string>
 
@@ -7,5 +8,5 @@
     <string name="action_settings">Settings</string>
 
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
-    <string name="email_support">florent.denef@etudiant.univ-reims.fr</string>
+    <string name="email_support" translatable="false">florent.denef@etudiant.univ-reims.fr</string>
 </resources>
